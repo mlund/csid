@@ -2,7 +2,7 @@ Introduction and build instructions
 ===================================
 
 This is an unofficial clone of cSID/cSID-light from http://hermit.uw.hu, modified
-to use cmake and automatic SDL detection. Build the two executable with:
+to use cmake and automatic SDL detection. Build the two executables with:
 
 ~~~ bash
 cmake .
