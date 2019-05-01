@@ -1,3 +1,6 @@
+(copied from http://hermit.uw.hu and modified to use cmake which I need for a
+project)
+
                              cSID-light by Hermit
                              ====================
 
