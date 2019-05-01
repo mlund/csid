@@ -5,9 +5,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
-#include <SDL/SDL_config.h>
-#include <SDL/SDL.h>
-#include <SDL/SDL_audio.h>
+#include <SDL_config.h>
+#include <SDL.h>
+#include <SDL_audio.h>
 
 #ifdef _MSC_VER //no sleep and usleep (unistd.h) in M$ Win... need to find an alternative
  void sleep(int x){}
