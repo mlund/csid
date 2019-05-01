@@ -1,9 +1,8 @@
-cSID and cSID-light
-===================
+Introduction and build instructions
+===================================
 
 This is an unofficial clone of cSID/cSID-light from http://hermit.uw.hu, modified
-to use cmake which I need for a project. Building require the SDL library which
-is detected using CMake:
+to use cmake and automatic SDL detection. Build the two executable with:
 
 ~~~ bash
 cmake .
