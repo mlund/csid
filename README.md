@@ -1,8 +1,17 @@
-(copied from http://hermit.uw.hu and modified to use cmake which I need for a
-project)
+cSID and cSID-light
+===================
 
-                             cSID-light by Hermit
-                             ====================
+This is an unofficial clone of cSID/cSID-light from http://hermit.uw.hu, modified
+to use cmake which I need for a project. Building require the SDL library which
+is detected using CMake:
+
+~~~ bash
+cmake .
+make
+~~~~
+
+cSID-light by Hermit
+--------------------
 
  This version of cSID is more closely based on jsSID, using the same sampling
 frequency paced (non-cycleexact) approach to cause far lower CPU load...
