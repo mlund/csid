@@ -9,6 +9,8 @@ cmake .
 make
 ~~~~
 
+Update: just found [this](https://github.com/possan/csid-mod) clone.
+
 cSID-light by Hermit
 --------------------
 
